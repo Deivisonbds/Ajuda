@@ -1,2 +1,0 @@
-# Ajuda
-Linguagem c

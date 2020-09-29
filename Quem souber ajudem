@@ -1,0 +1,13 @@
+
+#include
+#include
+#include
+main(){
+int cont, p=0
+for(cont=1;cont<=10;cont++){
+if (cont % 2 ==0){
+if ((cont>10) && (cont<20)){
+p=p+1}}}
+printf("%d",p)
+}
+
